@@ -11,6 +11,7 @@ I’m an iOS developer, designer, and all round Apple enthusiast. Check out my w
 - 💬 Ask me about: UIKit, TableViews, iOS development process, Swift
 - 📫 How to reach me: Twitter me @dtomswift or email me at tombacco.devron@gmail.com 
 - 😄 Pronouns: he/him
+- 🏈 Hobbies: On my time off you can find me playing chess, poker, PS4, rubick's cube, going to the gym or watching anything on netflix.
 - 🐍 Fun fact: I learned about programming from a colleague at work that completely automated his job through python. After he showed me how to do the same, I was completely hooked on coding.
 
 
