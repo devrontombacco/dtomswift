@@ -20,4 +20,4 @@ I’m an iOS developer, designer, and all round Apple enthusiast. Check out my w
 - Email: tombacco.devron@gmail.com
 - Twitter: [@dtomswift](https://twitter.com/dtomswift)
 - Instagram: [@dtomswift](https://www.instagram.com/dtomswift/)
-- [My linkedIn profile](https://www.linkedin.com/in/devrontombacco/)
+- LinkedIn: (https://www.linkedin.com/in/devrontombacco/)
